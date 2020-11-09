@@ -23,7 +23,8 @@ private androidx.appcompat.widget.Toolbar mToolBar;
         mAuth = FirebaseAuth.getInstance();
         mToolBar=findViewById(R.id.main_page_toolbar);
         getSupportActionBar().setTitle("Howdy App");
-        /*this is the modification on this project */
+        /*1 this is the modification on this project */
+        /*2 this is the modification on this project */
     }
     @Override
     public void onStart() {
